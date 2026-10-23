@@ -1,0 +1,23 @@
+FICTIONAL SAMPLE RESUME — FOR DEMONSTRATION ONLY
+
+Ananya Verma
+B.Sc. (Hons) Physics student | India
+CGPA: 9.1 / 10 | Expected graduation: 2027
+
+PROFILE
+Fictional student interested in data science and computational neuroscience. Seeking master's study abroad and tuition support.
+
+SKILLS (illustrative only; verify or replace)
+Python, statistics, data analysis, scientific computing, machine learning fundamentals.
+
+PROJECTS (illustrative only; verify or replace)
+- Student project: analysis of a public scientific dataset.
+- Student project: prototype for visualising experimental measurements.
+
+ACADEMIC / APPLICATION NOTES
+English test: IELTS completed (score not provided; do not assume a score).
+Research publications: Not provided.
+Awards: Not provided.
+Funding need: Tuition scholarship needed.
+
+IMPORTANT: This is fictional sample content. Do not represent these details as real achievements. Replace with student-provided, consented information.

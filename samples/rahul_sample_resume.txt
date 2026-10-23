@@ -1,0 +1,25 @@
+FICTIONAL SAMPLE RESUME — FOR DEMONSTRATION ONLY
+
+Rahul Sharma
+Final-year B.Tech Computer Science student | Jalandhar, India
+CGPA: 8.2/10 | Expected graduation: 2027
+GitHub: https://github.com/octocat (public demonstration account; replace with a consented profile)
+
+PROFILE
+Computer Science student interested in Artificial Intelligence, Machine Learning, and data-driven software systems. Seeking master's study and scholarship opportunities abroad.
+
+SKILLS (illustrative demo data; verify or replace before use)
+Python, SQL, Java, machine learning fundamentals, data analysis, Git, web development.
+
+PROJECTS (illustrative demo data; verify or replace before use)
+- Student project: machine learning model for tabular classification.
+- Student project: web application prototype integrating an AI API.
+
+ACADEMIC / APPLICATION NOTES
+English proficiency test: Not provided.
+Research publications: Not provided.
+Awards: Not provided.
+Target countries: Canada, Germany, Singapore.
+Funding need: High; seeks tuition and living-cost support.
+
+IMPORTANT: This is fictional sample content. Do not represent these details as real achievements. Replace with student-provided, consented information.

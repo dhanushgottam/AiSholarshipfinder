@@ -1,0 +1,16 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets: keep real credentials local; allow the placeholder template
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local/editor files
+.DS_Store
+.vscode/

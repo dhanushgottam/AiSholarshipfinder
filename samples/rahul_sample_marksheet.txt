@@ -1,0 +1,9 @@
+FICTIONAL SAMPLE MARKSHEET — DEMONSTRATION ONLY
+
+Student: Rahul Sharma
+Degree: B.Tech Computer Science
+Institution: Fictional demonstration profile; institution not specified
+Current CGPA: 8.2 / 10
+Expected graduation: 2027
+
+IMPORTANT: This is invented demo data for testing the scholarship finder. It is not an official academic record. Replace with a consented student's actual transcript before evaluating eligibility.
